@@ -1,0 +1,424 @@
+1667028363833	geckodriver	INFO	Listening on 127.0.0.1:64744
+1667028366971	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofileIEJwLn"
+1667028368326	Marionette	INFO	Marionette enabled
+1667028368339	Marionette	INFO	Listening on port 64756
+Read port: 64756
+1667028368688	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofileIEJwLn\\search.json.mozlz4", (void 0)))
+1667028380545	Marionette	INFO	Stopped listening on port 64756
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+1667028519977	geckodriver	INFO	Listening on 127.0.0.1:64935
+1667028523039	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofileMxEW4P"
+1667028524282	Marionette	INFO	Marionette enabled
+1667028524292	Marionette	INFO	Listening on port 64947
+Read port: 64947
+1667028524650	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofileMxEW4P\\search.json.mozlz4", (void 0)))
+1667028536153	Marionette	INFO	Stopped listening on port 64947
+1667028905881	geckodriver	INFO	Listening on 127.0.0.1:65131
+1667028908943	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofilexh0m8q"
+1667028910304	Marionette	INFO	Marionette enabled
+1667028910316	Marionette	INFO	Listening on port 65143
+Read port: 65143
+1667028910710	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofilexh0m8q\\search.json.mozlz4", (void 0)))
+1667028929020	Marionette	INFO	Stopped listening on port 65143
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+[Parent 15080, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 15080, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+JavaScript error: , line 0: TypeError: ServiceWorker script at https://in.bookmyshow.com/app-sw.js for scope https://in.bookmyshow.com/ encountered an error during installation.
+1667033290834	geckodriver	INFO	Listening on 127.0.0.1:65478
+1667033293868	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofileKICmRY"
+1667033295029	Marionette	INFO	Marionette enabled
+1667033295040	Marionette	INFO	Listening on port 65495
+Read port: 65495
+1667033295372	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1667033396909	geckodriver	INFO	Listening on 127.0.0.1:49255
+1667033399963	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofileBhLt6g"
+1667033497229	geckodriver	INFO	Listening on 127.0.0.1:49433
+1667033500201	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofile7axT8w"
+1667033501222	Marionette	INFO	Marionette enabled
+1667033501232	Marionette	INFO	Listening on port 49446
+Read port: 49446
+1667033501545	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1667033632066	geckodriver	INFO	Listening on 127.0.0.1:49524
+1667033635041	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofile7j13N0"
+1667033635997	Marionette	INFO	Marionette enabled
+1667033636008	Marionette	INFO	Listening on port 49536
+Read port: 49536
+1667033636352	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofile7j13N0\\search.json.mozlz4", (void 0)))
+1667033648018	Marionette	INFO	Stopped listening on port 49536
+1667034555855	geckodriver	INFO	Listening on 127.0.0.1:49836
+1667034558900	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofilenGU6Mk"
+1667034559931	Marionette	INFO	Marionette enabled
+1667034559941	Marionette	INFO	Listening on port 49848
+Read port: 49848
+1667034560255	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1667035019181	geckodriver	INFO	Listening on 127.0.0.1:49934
+1667035022221	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofileth0vF5"
+1667035023277	Marionette	INFO	Marionette enabled
+1667035023288	Marionette	INFO	Listening on port 49947
+Read port: 49947
+1667035023602	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofileth0vF5\\search.json.mozlz4", (void 0)))
+1667035071738	Marionette	INFO	Stopped listening on port 49947
+1667035409952	geckodriver	INFO	Listening on 127.0.0.1:50264
+1667035413005	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofileYPTvVG"
+1667035414037	Marionette	INFO	Marionette enabled
+1667035414047	Marionette	INFO	Listening on port 50276
+Read port: 50276
+1667035414360	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofileYPTvVG\\search.json.mozlz4", (void 0)))
+1667035644599	Marionette	INFO	Stopped listening on port 50276
+1667035713821	geckodriver	INFO	Listening on 127.0.0.1:50524
+1667035716868	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofileelVzW3"
+1667035717891	Marionette	INFO	Marionette enabled
+1667035717901	Marionette	INFO	Listening on port 50536
+Read port: 50536
+1667035718211	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofileelVzW3\\search.json.mozlz4", (void 0)))
+1667035737327	Marionette	INFO	Stopped listening on port 50536
+[Parent 20904, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+[Parent 20904, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667035957229	geckodriver	INFO	Listening on 127.0.0.1:50676
+1667035960267	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofileRYcQLl"
+1667035961528	Marionette	INFO	Marionette enabled
+1667035961542	Marionette	INFO	Listening on port 50688
+Read port: 50688
+1667035961982	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofileRYcQLl\\search.json.mozlz4", (void 0)))
+1667035968340	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1667036034885	geckodriver	INFO	Listening on 127.0.0.1:50815
+1667036037967	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofileAwTTqx"
+1667036039310	Marionette	INFO	Marionette enabled
+1667036039324	Marionette	INFO	Listening on port 50827
+Read port: 50827
+1667036039661	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofileAwTTqx\\search.json.mozlz4", (void 0)))
+1667036295715	geckodriver	INFO	Listening on 127.0.0.1:51076
+1667036298776	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofiletRiSxt"
+1667036299949	Marionette	INFO	Marionette enabled
+1667036299959	Marionette	INFO	Listening on port 51088
+Read port: 51088
+1667036300420	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofiletRiSxt\\search.json.mozlz4", (void 0)))
+[Parent 13568, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+1667036328995	Marionette	INFO	Stopped listening on port 51088
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+1667036724740	geckodriver	INFO	Listening on 127.0.0.1:51361
+1667036727781	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofilehvdRJG"
+1667036729050	Marionette	INFO	Marionette enabled
+1667036729061	Marionette	INFO	Listening on port 51373
+Read port: 51373
+1667036729382	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofilehvdRJG\\search.json.mozlz4", (void 0)))
+1667036740948	Marionette	INFO	Stopped listening on port 51373
+1667139010195	geckodriver	INFO	Listening on 127.0.0.1:53573
+1667139015407	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofile1oPso2"
+1667139016565	Marionette	INFO	Marionette enabled
+1667139016579	Marionette	INFO	Listening on port 53591
+Read port: 53591
+1667139016932	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofile1oPso2\\search.json.mozlz4", (void 0)))
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:337:29
+
+1667139059813	Marionette	INFO	Stopped listening on port 53591
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1667139611705	geckodriver	INFO	Listening on 127.0.0.1:54393
+1667139616838	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofileh9zUuJ"
+1667139617984	Marionette	INFO	Marionette enabled
+1667139617996	Marionette	INFO	Listening on port 54412
+Read port: 54412
+1667139618359	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofileh9zUuJ\\search.json.mozlz4", (void 0)))
+1667139631202	Marionette	INFO	Stopped listening on port 54412
+[Parent 7236, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+[Parent 7236, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+1667194082133	geckodriver	INFO	Listening on 127.0.0.1:62468
+1667194085339	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofileQXlkUZ"
+1667194086568	Marionette	INFO	Marionette enabled
+1667194086579	Marionette	INFO	Listening on port 62480
+Read port: 62480
+1667194086931	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofileQXlkUZ\\search.json.mozlz4", (void 0)))
+1667194099229	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://in.bookmyshow.com/sports/dreamhack-hyderabad-2022/ET00340628 line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/sports/dreamhack-hyderabad-2022/ET00340628 line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/sports/dreamhack-hyderabad-2022/ET00340628 line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+1667194121397	Marionette	INFO	Stopped listening on port 62480
+1667194123961	geckodriver	INFO	Listening on 127.0.0.1:62730
+1667194126988	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofileEK3RIk"
+1667194127859	Marionette	INFO	Marionette enabled
+1667194127871	Marionette	INFO	Listening on port 62742
+Read port: 62742
+1667194128189	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofileEK3RIk\\search.json.mozlz4", (void 0)))
+1667194149575	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 183: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: https://in.bookmyshow.com/sports/dreamhack-hyderabad-2022/ET00340628 line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/sports/dreamhack-hyderabad-2022/ET00340628 line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/sports/dreamhack-hyderabad-2022/ET00340628 line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+1667194194450	Marionette	INFO	Stopped listening on port 62742
+[Parent 19828, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667194196843	geckodriver	INFO	Listening on 127.0.0.1:62999
+1667194199877	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofileNRT9ko"
+1667194200582	Marionette	INFO	Marionette enabled
+1667194200592	Marionette	INFO	Listening on port 63011
+Read port: 63011
+1667194200922	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofileNRT9ko\\search.json.mozlz4", (void 0)))
+1667194248557	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1667194249000	Marionette	INFO	Stopped listening on port 63011
+[Parent 23448, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+1667194250615	geckodriver	INFO	Listening on 127.0.0.1:63109
+1667194253651	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofile2eFKjt"
+1667194254298	Marionette	INFO	Marionette enabled
+1667194254309	Marionette	INFO	Listening on port 63121
+Read port: 63121
+1667194254636	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofile2eFKjt\\search.json.mozlz4", (void 0)))
+1667194288396	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1667194291230	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1667194292092	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1667194310292	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1667194311027	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://in.bookmyshow.com/bengaluru/sports/dreamhack-hyderabad-2022/ET00340628/bookingStep/datetime line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/bengaluru/sports/dreamhack-hyderabad-2022/ET00340628/bookingStep/datetime line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/bengaluru/sports/dreamhack-hyderabad-2022/ET00340628/bookingStep/datetime line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+1667194311972	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1667194312720	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1667194313461	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1667194316251	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1667194317906	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://in.bookmyshow.com."
+1667194318723	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1667194318937	Marionette	INFO	Stopped listening on port 63121
+1667194321284	geckodriver	INFO	Listening on 127.0.0.1:63416
+1667194324331	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofilewqfPeJ"
+1667194325197	Marionette	INFO	Marionette enabled
+1667194325207	Marionette	INFO	Listening on port 63428
+Read port: 63428
+1667194325536	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1667194583408	geckodriver	INFO	Listening on 127.0.0.1:64250
+1667194586430	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofile4AcNbr"
+1667194587356	Marionette	INFO	Marionette enabled
+1667194587366	Marionette	INFO	Listening on port 64263
+Read port: 64263
+1667194587742	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1667194984912	geckodriver	INFO	Listening on 127.0.0.1:64918
+1667194987919	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofilevOnti2"
+1667194989543	Marionette	INFO	Marionette enabled
+1667194989562	Marionette	INFO	Listening on port 64930
+Read port: 64930
+1667194990130	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofilevOnti2\\search.json.mozlz4", (void 0)))
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1667195028790	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1667195032592	Marionette	INFO	Stopped listening on port 64930
+1667195034233	geckodriver	INFO	Listening on 127.0.0.1:65102
+1667195037275	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofile0mMSHF"
+1667195038183	Marionette	INFO	Marionette enabled
+1667195038195	Marionette	INFO	Listening on port 65114
+Read port: 65114
+1667195038524	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofile0mMSHF\\search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1667195101478	Marionette	INFO	Stopped listening on port 65114
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1667195102484	geckodriver	INFO	Listening on 127.0.0.1:65248
+1667195105525	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofileO6qA4h"
+1667195106378	Marionette	INFO	Marionette enabled
+1667195106387	Marionette	INFO	Listening on port 65260
+Read port: 65260
+1667195106847	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1667195405903	geckodriver	INFO	Listening on 127.0.0.1:49535
+1667195408943	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofileU8Lzlk"
+1667195410074	Marionette	INFO	Marionette enabled
+1667195410084	Marionette	INFO	Listening on port 49547
+Read port: 49547
+1667195410455	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofileU8Lzlk\\search.json.mozlz4", (void 0)))
+1667195613008	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1667195617711	Marionette	INFO	Stopped listening on port 49547
+[Parent 3320, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667195618801	geckodriver	INFO	Listening on 127.0.0.1:49698
+1667195621823	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofile0KXlqy"
+1667195622520	Marionette	INFO	Marionette enabled
+1667195622531	Marionette	INFO	Listening on port 49710
+Read port: 49710
+1667195622871	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1667195866245	geckodriver	INFO	Listening on 127.0.0.1:57039
+1667195869297	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofile1qL6O2"
+1667195870678	Marionette	INFO	Marionette enabled
+1667195870688	Marionette	INFO	Listening on port 57051
+Read port: 57051
+1667195871043	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofile1qL6O2\\search.json.mozlz4", (void 0)))
+1667195878792	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://in.bookmyshow.com/sports/dreamhack-hyderabad-2022/ET00340628 line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/sports/dreamhack-hyderabad-2022/ET00340628 line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/sports/dreamhack-hyderabad-2022/ET00340628 line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+1667195895748	Marionette	INFO	Stopped listening on port 57051
+[Parent 9028, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667195898354	geckodriver	INFO	Listening on 127.0.0.1:57292
+1667195901393	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofileEnrnUF"
+1667195902057	Marionette	INFO	Marionette enabled
+1667195902067	Marionette	INFO	Listening on port 57304
+Read port: 57304
+1667195902393	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofileEnrnUF\\search.json.mozlz4", (void 0)))
+1667195910517	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://in.bookmyshow.com/sports/dreamhack-hyderabad-2022/ET00340628 line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/sports/dreamhack-hyderabad-2022/ET00340628 line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/sports/dreamhack-hyderabad-2022/ET00340628 line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+1667195923971	Marionette	INFO	Stopped listening on port 57304
+1667195926596	geckodriver	INFO	Listening on 127.0.0.1:57668
+1667195929631	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofilehSjWsA"
+1667195930597	Marionette	INFO	Marionette enabled
+1667195930607	Marionette	INFO	Listening on port 57680
+Read port: 57680
+1667195930924	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofilehSjWsA\\search.json.mozlz4", (void 0)))
+1667195938479	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://in.bookmyshow.com/sports/dreamhack-hyderabad-2022/ET00340628 line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/sports/dreamhack-hyderabad-2022/ET00340628 line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/sports/dreamhack-hyderabad-2022/ET00340628 line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+1667195951026	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1667195956194	Marionette	INFO	Stopped listening on port 57680
+[Parent 10392, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667195958829	geckodriver	INFO	Listening on 127.0.0.1:57935
+1667195961877	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofileNWFzVb"
+1667195962574	Marionette	INFO	Marionette enabled
+1667195962587	Marionette	INFO	Listening on port 57947
+Read port: 57947
+1667195962955	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofileNWFzVb\\search.json.mozlz4", (void 0)))
+1667195970931	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://in.bookmyshow.com/sports/dreamhack-hyderabad-2022/ET00340628 line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/sports/dreamhack-hyderabad-2022/ET00340628 line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/sports/dreamhack-hyderabad-2022/ET00340628 line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+1667195987998	Marionette	INFO	Stopped listening on port 57947
+1667195990623	geckodriver	INFO	Listening on 127.0.0.1:58366
+1667195993656	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofilepqBVRz"
+1667195994535	Marionette	INFO	Marionette enabled
+1667195994545	Marionette	INFO	Listening on port 58378
+Read port: 58378
+1667195994882	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofilepqBVRz\\search.json.mozlz4", (void 0)))
+1667196002070	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://in.bookmyshow.com/sports/dreamhack-hyderabad-2022/ET00340628 line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/sports/dreamhack-hyderabad-2022/ET00340628 line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/sports/dreamhack-hyderabad-2022/ET00340628 line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+1667196044294	Marionette	INFO	Stopped listening on port 58378
+1667197962193	geckodriver	INFO	Listening on 127.0.0.1:57030
+1667197965254	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofileVpDYwg"
+1667197966949	Marionette	INFO	Marionette enabled
+1667197966976	Marionette	INFO	Listening on port 57043
+Read port: 57043
+1667197967649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofileVpDYwg\\search.json.mozlz4", (void 0)))
+1667197979080	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://in.bookmyshow.com/sports/dreamhack-hyderabad-2022/ET00340628 line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/sports/dreamhack-hyderabad-2022/ET00340628 line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/sports/dreamhack-hyderabad-2022/ET00340628 line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+1667197998234	Marionette	INFO	Stopped listening on port 57043
+1667198000888	geckodriver	INFO	Listening on 127.0.0.1:57415
+1667198003966	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofileqEbxyd"
+1667198005011	Marionette	INFO	Marionette enabled
+1667198005023	Marionette	INFO	Listening on port 57427
+Read port: 57427
+1667198005363	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofileqEbxyd\\search.json.mozlz4", (void 0)))
+1667198015166	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://in.bookmyshow.com/sports/dreamhack-hyderabad-2022/ET00340628 line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/sports/dreamhack-hyderabad-2022/ET00340628 line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/sports/dreamhack-hyderabad-2022/ET00340628 line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+1667198042497	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1667198045822	Marionette	INFO	Stopped listening on port 57427
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 183: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1667198048416	geckodriver	INFO	Listening on 127.0.0.1:57751
+1667198051478	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofileRAMwA5"
+1667198052383	Marionette	INFO	Marionette enabled
+1667198052393	Marionette	INFO	Listening on port 57763
+Read port: 57763
+1667198052723	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofileRAMwA5\\search.json.mozlz4", (void 0)))
+1667198078226	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://in.bookmyshow.com/sports/dreamhack-hyderabad-2022/ET00340628 line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/sports/dreamhack-hyderabad-2022/ET00340628 line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/sports/dreamhack-hyderabad-2022/ET00340628 line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+1667198098184	Marionette	INFO	Stopped listening on port 57763
+1667198101295	geckodriver	INFO	Listening on 127.0.0.1:57993
+1667198104336	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SNEHA\\AppData\\Local\\Temp\\rust_mozprofileGj2aFa"
+1667198105397	Marionette	INFO	Marionette enabled
+1667198105409	Marionette	INFO	Listening on port 58005
+Read port: 58005
+1667198105730	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
